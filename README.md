@@ -46,14 +46,14 @@ Desarrollar un sitio web de un e-commerce sencillo donde se apliquen los conocim
 
 ## Evaluación
 
-1. **Estructura y Uso de Etiquetas Semánticas (20%)**
+1. **Estructura y Uso de Etiquetas Semánticas**
    - Se evaluará la correcta aplicación de las etiquetas semánticas y la estructura del sitio.
 
-2. **Aplicación de CSS y Bootstrap (20%)**
+2. **Aplicación de CSS y Bootstrap**
    - Se evaluará el uso de Bootstrap y el estilo propio para lograr un diseño responsive y estético.
 
-3. **Funcionalidad de la API y Manipulación de Productos (30%)**
+3. **Funcionalidad de la API y Manipulación de Productos**
    - Se evaluará la correcta integración con la API para mostrar y filtrar productos.
 
-4. **Interactividad y Manejo del Carrito (30%)**
+4. **Interactividad y Manejo del Carrito**
    - Se evaluará el funcionamiento del carrito y las interacciones con JavaScript.
